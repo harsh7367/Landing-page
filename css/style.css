@@ -1,0 +1,19 @@
+#main-head {
+    /* 54 px = Navbar height */
+    height: calc(100vh - 54px);
+    background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2017/01/18/1074877/e056fe1f38239ed1f17fab77fb6f489d-700.jpg');
+    background-size: cover;
+}
+
+.page-section {
+    padding: 6rem 0 ;
+}
+
+.section-heading  {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.section-subheading {
+    margin-bottom: 4rem;
+}
